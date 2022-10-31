@@ -1,0 +1,1 @@
+Sale_data(std::istream& is) { read(is, *this) };
